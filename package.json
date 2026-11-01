@@ -1,0 +1,16 @@
+{
+  "name": "bot-musica-flex",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env src/index.js"
+  },
+  "dependencies": {
+    "@fluxerjs/core": "^3.3.0",
+    "@fluxerjs/voice": "^3.1.0"
+  }
+}
