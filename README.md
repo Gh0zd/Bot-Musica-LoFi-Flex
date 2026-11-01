@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bot-Musica-LoFi-Flex&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
-# 
+ 
 
 Bot de Fluxer para reproducir la radio Lofi 24/7 en un canal de voz.
 
